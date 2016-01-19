@@ -1,5 +1,3 @@
-# slavePC
-Remote other pc (DOS Batch Program)
 
 ---------------------------------------------------------------------------
 SlavePc 1.01, Last updated at 19 Dec 94
